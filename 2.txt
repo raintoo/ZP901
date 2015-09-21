@@ -4,4 +4,4 @@ HHHHHHEEEEEELLLLLLLOOOOOO
 Hello Kitty
 Hello Rabbit
 
-這是一個新功能，我從addbutton 這個分支上開發的。
+我覺得這個功能比較帥帥
